@@ -1,0 +1,19 @@
+appId: com.app.kartTrackEditor
+productName: Kart Track Editor
+copyright: Copyright © 2025 Kart Track Editor Contributors
+directories:
+  output: dist
+  buildResources: resources
+files:
+  - from: .
+    filter:
+      - package.json
+      - app
+publish:
+  - provider: github
+    protocol: https
+    # Required for auto updater
+    owner: timderes
+    repo: kart-track-editor
+win:
+  target: nsis

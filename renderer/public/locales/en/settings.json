@@ -1,0 +1,40 @@
+{
+  "colorSchemes": {
+    "light": "Light",
+    "dark": "Dark",
+    "auto": "System"
+  },
+  "colorScheme": {
+    "title": "Color Scheme",
+    "text": "Choose a light or dark color scheme to personalize your experience. You can also select \"System\" to choose the color scheme for the app based on your operating system settings."
+  },
+  "language": {
+    "title": "Language",
+    "text": "Choose your preferred language for the app."
+  },
+  "storage": {
+    "title": "Storage",
+    "text": "Delete data to free up storage space.",
+    "dangerZoneTitle": "Warning!",
+    "dangerZoneText": "Changes in this area cannot be undone!",
+    "dangerZone": {
+      "btn": {
+        "label": {
+          "resetApp": "Reset App"
+        }
+      }
+    },
+    "modals": {
+      "confirmResetAppTitle": "Are you sure you want to reset the app?",
+      "confirmResetAppText": "This will reset the app to its original state. This can help resolve issues encountered while using the app."
+    },
+    "notifications": {
+      "successResetAppTitle": "App Reset!",
+      "successResetAppText": "All settings have been reset."
+    }
+  },
+  "languages": {
+    "de": "Deutsch",
+    "en": "English"
+  }
+}

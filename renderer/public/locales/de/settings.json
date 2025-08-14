@@ -1,0 +1,40 @@
+{
+  "colorSchemes": {
+    "light": "Hell",
+    "dark": "Dunkel",
+    "auto": "System"
+  },
+  "colorScheme": {
+    "title": "Farbschema",
+    "text": "Wählen Sie ein helles oder dunkles Farbschema, um Ihre Erfahrung zu personalisieren. Sie können auch \"System\" auswählen, um das Farbschema der App basierend auf den Einstellungen Ihres Betriebssystems zu wählen."
+  },
+  "language": {
+    "title": "Sprache",
+    "text": "Wählen Sie Ihre bevorzugte Sprache für die App aus."
+  },
+  "storage": {
+    "title": "Speicherplatz",
+    "text": "Löschen Sie Daten, um Speicherplatz freizugeben.",
+    "dangerZoneTitle": "Achtung!",
+    "dangerZoneText": "Änderungen in diesem Bereich können nicht rückgängig gemacht werden!",
+    "dangerZone": {
+      "btn": {
+        "label": {
+          "resetApp": "App zurücksetzen"
+        }
+      }
+    },
+    "modals": {
+      "confirmResetAppTitle": "Möchten Sie die App wirklich zurücksetzen?",
+      "confirmResetAppText": "Dies setzt die App in den ursprünglichen Zustand zurück. Dies kann helfen, falls beim Benutzen der App Fehler auftreten."
+    },
+    "notifications": {
+      "successResetAppTitle": "App zurückgesetzt!",
+      "successResetAppText": "Alle Einstellungen wurden zurückgesetzt"
+    }
+  },
+  "languages": {
+    "de": "Deutsch",
+    "en": "Englisch"
+  }
+}
