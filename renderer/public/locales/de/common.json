@@ -19,6 +19,7 @@
   "closeApp": "Schließen",
   "routes": {
     "home": "Startseite",
+    "editor": "Editor",
     "settings": "Einstellungen"
   },
   "color": {

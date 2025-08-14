@@ -1,4 +1,4 @@
-import { IconHome, IconSettings } from "@tabler/icons-react";
+import { IconHammer, IconHome, IconSettings } from "@tabler/icons-react";
 
 /**
  * `navbarRoutes` defines the routes for the application's navigation bar.
@@ -7,11 +7,15 @@ import { IconHome, IconSettings } from "@tabler/icons-react";
  * the app's localization files.
  */
 const navbarRoutes = [
-  // TODO: Reactivate the disabled routes once their corresponding pages are implemented and functional.
   {
     icon: <IconHome />,
     label: "routes.home",
     route: "/",
+  },
+  {
+    icon: <IconHammer />,
+    label: "routes.editor",
+    route: "/editor",
   },
   {
     icon: <IconSettings />,
